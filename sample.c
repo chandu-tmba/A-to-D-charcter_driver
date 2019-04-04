@@ -350,6 +350,6 @@ static int adc_hw_module_init(void)
 module_init(adc_hw_module_init);
 module_exit(adc_hw_module_exit);
 
-MODULE_AUTHOR("American Megatrends Inc");
+MODULE_AUTHOR("General");
 MODULE_DESCRIPTION("ADC HW driver module.");
 MODULE_LICENSE("GPL");
